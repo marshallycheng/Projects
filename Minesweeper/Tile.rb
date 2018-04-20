@@ -20,9 +20,9 @@ class Tile
     
   end
   
-  def inspect
-    { "bombed"=> @bombed, "flagged"=> @flagged "revealed"=> @revealed, "position"=> @position }.inspect
-  end
+  # def inspect
+  #   { "bombed"=> @bombed, "flagged"=> @flagged, "revealed"=> @revealed, "position"=> @position }.inspect
+  # end
 
   
 end
